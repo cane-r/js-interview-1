@@ -1,0 +1,34 @@
+[
+  {
+    "userId": 15291,
+    "expected": [
+      "Pulp Fiction",
+      "The Dark Knight",
+      "The Godfather"
+    ]
+  },
+  {
+    "userId": 7001,
+    "expected": [
+      "Pulp Fiction",
+      "The Godfather",
+      "The Dark Knight"
+    ]
+  },
+  {
+    "userId": 51417,
+    "expected": [
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "The Godfather"
+    ]
+  },
+  {
+    "userId": 62289,
+    "expected": [
+      "Pulp Fiction",
+      "The Godfather",
+      "The Dark Knight"
+    ]
+  }
+]
